@@ -7,8 +7,6 @@
     <ol>
       <li><a href="#visão-geral">Visão Geral</a></li>
       <li><a href="#tela-do-dashboard">Tela do Incial</a></li>
-      <li><a href="#campos-de-filtro">Campos de Filtro</a></li>
-      <li><a href="#regras-de-negócio">Regras de Negócio</a></li>
       <li><a href="#instruções-de-inicialização-do-projeto">Instruções de Inicialização do Projeto</a></li>
       <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
     </ol>
